@@ -39,7 +39,7 @@ export const projects = [
     ],
     img: "webchatapp.webp",
     link: "https://web-chat-app-brown.vercel.app",
-    code: "https://github.com/daniel-jebarson/web-chat-app",
+    code: "https://github.com/lightninghands/web-chat-app",
   },
   {
     title: "Exploiter(deprecated)",
@@ -64,7 +64,7 @@ export const projects = [
     ],
     img: "exploiter.webp",
     link: "https://drive.google.com/file/d/1npEOuOhQh-1zRiLB9fFn-6ORTwd1gZkl/view",
-    code: "https://github.com/daniel-jebarson/EXPLOITER",
+    code: "https://github.com/lightninghands/EXPLOITER",
   },
   {
     title: "Stock Market",
@@ -85,7 +85,7 @@ export const projects = [
     ],
     img: "stockmarket.webp",
     link: "https://stock-market-seven.vercel.app/",
-    code: "https://github.com/daniel-jebarson/Stock-Market",
+    code: "https://github.com/lightninghands/Stock-Market",
   },
   {
     title: "You-Farm",

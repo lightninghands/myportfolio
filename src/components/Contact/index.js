@@ -200,7 +200,7 @@ export default function Contact() {
               <div
                 title="Github"
                 onClick={() =>
-                  window.open("https://github.com/daniel-jebarson", "_blank")
+                  window.open("https://github.com/lightninghands", "_blank")
                 }
               >
                 <GitHubIcon className="cursor-pointer hover:scale-105" />
@@ -209,7 +209,7 @@ export default function Contact() {
                 title="Instagram"
                 onClick={() =>
                   window.open(
-                    "https://www.instagram.com/daniel_diago2003",
+                    "https://www.instagram.com/adrian.gortopan",
                     "_blank"
                   )
                 }
@@ -221,7 +221,7 @@ export default function Contact() {
                 title="Linkedin"
                 onClick={() =>
                   window.open(
-                    "https://www.linkedin.com/in/daniel-jebarson-k-a727a822a",
+                    "https://www.linkedin.com/in/adrian-gortopan-769610343 ",
                     "_blank"
                   )
                 }
@@ -233,7 +233,7 @@ export default function Contact() {
                 title="Facebook"
                 onClick={() =>
                   window.open(
-                    "https://www.facebook.com/daniel.jebarson.9",
+                    "https://www.facebook.com/adrian.gortopan",
                     "_blank"
                   )
                 }
@@ -244,7 +244,7 @@ export default function Contact() {
             <div className="mt-6 italic text-sm font-medium text-blue-500 ">
               <span className=" pl-1 ">Copyright</span>
               <CopyrightIcon className="cursor-pointer mx-1" />
-              <span>2023 Daniel Jebarson K</span>
+              <span>2023 Adrian Gortopan</span>
             </div>
           </div>
         </div>

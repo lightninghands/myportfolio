@@ -37,7 +37,7 @@ export default function Home() {
         <Typewriter
           options={{
             strings: [
-              "✋I'm Daniel Jebarson",
+              "✋I'm Adrian Gortopan",
               "I'm an enthusiast Full-Stack 🌐developer",
               "I'm currently working on Generative AI 🤖",
               "You can 📲 me through discord or ✉️",
